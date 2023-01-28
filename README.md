@@ -3,10 +3,6 @@
 
 Dragon House Real Estate Company wants to predict house prices along with the best-performing ML algorithm that can work specifically on their data.
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 ## Roadmap
 
